@@ -1,3 +1,8 @@
+%%%
+% Author: Humayun Irshad
+% Beck lab, BIDMC, Harvard Medical School.
+% 2014_05_20
+%%%
 function MITOS_SegFeature()
 
 addpath('/home/hi41/WS/MatCode/Lib');
