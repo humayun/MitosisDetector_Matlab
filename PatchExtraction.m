@@ -1,3 +1,8 @@
+%%%
+% Author: Humayun Irshad
+% Beck lab, BIDMC, Harvard Medical School.
+% 2014_05_20
+%%%
 function [ Patch ] = PatchExtraction( Image, PatchSize, Centroid )
 %UNTITLED5 Summary of this function goes here
 %   Detailed explanation goes here
